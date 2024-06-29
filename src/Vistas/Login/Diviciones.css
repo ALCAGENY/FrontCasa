@@ -1,0 +1,100 @@
+.Mitad-1 {
+  width: 40%;
+  height: 100%;
+  padding: 0% 5%;
+}
+
+.Mitad-2 {
+  width: 30%;
+  height: 100%;
+  margin-left: 10%;
+}
+
+.Titulo {
+  color: white;
+  padding: 1% 0%;
+  font-size: xxx-large;
+}
+
+.Parrafo {
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 2% 0%;
+}
+
+.Parrafos {
+  margin-top: 5%;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Parrafoss {
+  margin-top: 3%;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Barra {
+  margin-top: 10%;
+  color: white;
+  display: flex;
+  align-items: center;
+  gap: 3%;
+}
+
+.Estados {
+  display: inline-block; 
+  
+}
+
+.Icono {
+  width: 30px; /* Ajusta el tamaño de la imagen según sea necesario */
+  height: auto; 
+}
+
+
+.Titulo2 {
+  color: white;
+  padding: 1% 0%;
+  font-size: xxx-large;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Entradas {
+  width: 100%;
+  margin-bottom: 7%;
+  border: none; 
+  border-bottom: 1px solid #ccc;
+  background: none; 
+  font-size: medium; 
+  outline: none;
+  color: #ffffff; 
+}
+
+.Entradas:focus {
+  border-bottom: 0px solid #fff; /* Cambia el color de la línea inferior al enfocar */
+  box-shadow: 0 1px 0 0 #fff; /* Añade un brillo al enfocar */
+}
+
+.Boton {
+  background-color: rgb(212, 109, 35);
+  color: white;
+  padding: 4% 0%; 
+  width: 100%;
+  text-align: center; 
+  text-decoration: none;
+  border: none; 
+  border-radius: 5px;
+  margin-top: 10%;
+  cursor: pointer;
+  font-family: Arial, sans-serif; 
+}
+
+
+
+.Boton:hover {
+  background-color: rgb(161, 74, 12); 
+}
+
+

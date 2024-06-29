@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.CuerpoP {
+    background-image: url("../../assets/Img/Home.avif");
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center; 
+}
+
+.Transparencia{
+    background-color: rgba(0, 0, 0, 0.537);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Cuadrado{
+  
+    width: 80%;
+    height: 80%;
+}
+
+.Separacion{
+    display: flex;
+    padding: 8% 8%;
+}
